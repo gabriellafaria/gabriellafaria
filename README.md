@@ -1,7 +1,29 @@
-Olá, me chamo Gabriella.
+Olá, eu sou Gabriella de Sousa Faria.
 
-- 👀 Aprendendo a programar;
-- 🌱 Estou estudando no curso Certified Tech Developer da Digital House;
-- 📫 Você me encontra pelo email: gabriella.sousa.faria@gmail.com e no linkedin https://www.linkedin.com/in/gabriella-de-sousa-faria-3665a11b8/
+- 🌱 Estudante de Análise e Desenvolvimento de Sistemas - UniBH;
 
+<div>
+  <a href="https://github.com/gabriellafaria">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellafaria&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellafaria&layout=compact&langs_count=16&theme=dark"/>
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gabriella-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gabriella-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Gabriella-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Gabriella-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gabriella-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+</div>
    
+  ##
+ 
+<div> 
+ <a href="gabriellafaria" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:gabriella.sousa.faria@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriella-de-sousa-faria/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/gabriellafaria/gabriellafaria/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
